@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a frontend developer...
 
 
 # Project Title
