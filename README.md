@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a frontend developer...
+I'm a Data Analyst...
 
 
 # Project Title
@@ -12,7 +12,7 @@ This project is a repository for giving a brief introduction about myself.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Reactjs, Nodejs...
+SQL, Excel, Python, R...
 
 
 ## 🔗 Links
